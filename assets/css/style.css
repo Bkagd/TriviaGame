@@ -1,0 +1,30 @@
+
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: rgb(67, 121, 76);
+    height: 100%;
+}
+
+h1 {
+    padding-top: 1%;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 1%;
+    text-align: center;
+}
+
+#start {
+    margin-left: 47%;
+}
+
+form {
+    padding-top: 1%;
+    text-align: center;
+}
+
+hr {
+    width: 70%;
+}
