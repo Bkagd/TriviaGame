@@ -66,3 +66,8 @@ $("#start").click(function () {
     onTimer();
     console.log(timer);
 })
+
+//Set a submit button to get users answers.
+//check users answers against rightAnswer
+//Set a tally for # correct and # incorrect
+//Give a reset button to start again
